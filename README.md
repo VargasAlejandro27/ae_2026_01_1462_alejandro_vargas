@@ -126,3 +126,4 @@ Para pruebas:
 - El servicio asume que los espacios de estacionamiento ya existen en la base de datos.
 - No se permiten entradas a espacios ocupados ni salidas de tickets ya cerrados.
 - La lógica de capacidad evita que se registren más de 20 vehículos al mismo tiempo.
+# ae_2026_01_1463_alejandro_vargas_roles
